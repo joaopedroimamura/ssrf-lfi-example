@@ -1,0 +1,3 @@
+```sh
+file:///etc/passwd
+```

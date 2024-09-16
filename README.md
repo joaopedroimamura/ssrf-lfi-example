@@ -1,0 +1,1 @@
+This application has a SSRF + LFI vulnerability. It's possible to read server files content.
